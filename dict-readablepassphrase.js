@@ -1,3 +1,4 @@
+module.exports = ReadablePassphrase;
 /**
  * @file This is a port of the C# ReadablePassphraseGenerator, by Murray Grant
  * @author Steven Zeck <saintly@innocent.com>
