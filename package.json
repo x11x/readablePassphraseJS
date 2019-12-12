@@ -1,0 +1,22 @@
+{
+  "name": "readablepassphrasejs",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Murray Grant's readable passphrase generator",
+  "main": "dict-readablepassphrase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaintly/readablePassphraseJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaintly/readablePassphraseJS/issues"
+  },
+  "homepage": "https://github.com/xaintly/readablePassphraseJS#readme",
+  "dependencies": {
+    "random-number-csprng": "^1.0.2"
+  }
+}
